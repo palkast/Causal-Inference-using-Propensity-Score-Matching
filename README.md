@@ -12,10 +12,10 @@ If no match found, remove observation from analysis
 
 ## Problem trying to resolve :
 Some deals on Social media have a minimal requirement, e.g.,the deal only works when there are at least<br />
-50 committed buyers.<br />
+10 committed buyers.<br />
 
-*Does having the minimal requirement affect the deal outcomes, such as revenue, quantity sold,<br />
-and Facebook likes received?*<br />
+**Does having the minimal requirement affect the deal outcomes, such as revenue, quantity sold,<br />
+and Facebook likes received?**<br />
 
 ## Issues in the process:
 
